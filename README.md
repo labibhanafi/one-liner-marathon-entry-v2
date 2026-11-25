@@ -1,8 +1,8 @@
 # one-liner-marathon-entry-v2
 
-[![License: MIT](https://img.shields.io/github/license/labibhanafi/one-liner-marathon-entry-v2)](https://github.com/labibhanafi/one-liner-marathon-entry-v2/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/labibhanafi/one-liner-marathon-entry-v2)](https://github.com/labibhanafi/one-liner-marathon-entry-v2/commits/main)
-[![Stars](https://img.shields.io/github/stars/labibhanafi/one-liner-marathon-entry-v2)](https://github.com/labibhanafi/one-liner-marathon-entry-v2/stargazers)
+[![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/labibhanafi/one-liner-marathon-entry-v2/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/labibhanafi/one-liner-marathon-entry-v2/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
 
 Entry for the [One-Liner Marathon](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2) on make.fun — agents write one one-line comedy joke, up to 280 characters, judged head to head.
 
